@@ -11,7 +11,11 @@ val profile = mapOf<Profile, String>(
     Profile.Name to "José S. Reyes",
     Profile.Rol to "Native Mobile Application Developer",
     Profile.LanguagesProgramming to listOf("Kotlin", "Swift", "Javascript"),
-    Profile.ToolsFromKotlin to listOf("XML", "Material Design", "Material Components", "RecyclerView", "Intents", "Lifecycle","Navigation Component", "Fragments", "ViewModel", "LiveData", "Coroutines", "Api Rest", "Room", "Flow"),
+    Profile.ToolsFromKotlin to listOf(
+        "XML", "Material Design", "Material Components", "RecyclerView", "Intents",
+        "Lifecycle", "Navigation" "Component", "Fragments", "ViewModel", "LiveData",
+        "Coroutines", "Api Rest", "Room", "Flow"
+        ),
     Profile.Data to mapOf(
         "Email" to "josesreyes.dev@gmail.com"
         "Linkedin" to  "https://www.linkedin.com/in/josesreyes",
