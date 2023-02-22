@@ -1,6 +1,6 @@
 ## Hi! my name is **José S. Reyes**  👋
-I have two years of experience as a systems analyst and more than a year of experience in android mobile development with **Kotlin**. 
-
+### I have two years of experience as a systems analyst and more than a year of experience in android mobile development with **Kotlin**. 
+### Today I have decided to focus on the development of native movile applications that allow me to acquire new challenges 
 ---
 ```kotlin  
 enum class Profile {
