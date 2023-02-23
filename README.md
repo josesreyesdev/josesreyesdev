@@ -51,18 +51,6 @@ fun main() {
 </p>
 
 ---
-### Organizations from Github
-<p>
-  <a href="https://github.com/innovaccion-virtual">
-    <img src="https://avatars.githubusercontent.com/u/70914071?s=200&v=4" height="80" width="80">
-  </a>
-  <a href="https://github.com/LaunchX-InnovaccionVirtual">
-    <img src="https://avatars.githubusercontent.com/u/99037757?s=200&v=4" height="80" width="80">
-  </a>
-  <a href="https://github.com/LatinXperts">
-    <img src="https://avatars.githubusercontent.com/u/99117267?s=200&v=4" height="80" width="80">
-  </a>
-</p>
 
 <!--
 **josesreyesdev/josesreyesdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
