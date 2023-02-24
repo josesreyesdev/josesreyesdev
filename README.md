@@ -10,7 +10,7 @@ fun main() {
             "XML", "Material Design", "Material Components", "RecyclerView", "Intents",
             "Lifecycle", "Navigation" "Component", "Fragments", "ViewModel", "LiveData",
             "Coroutines", "Api Rest", "Room", "Flow"
-            ),
+         ),
         "data" to listOf(
             mapOf(
                 "Email" to "josesreyes.dev@gmail.com",
