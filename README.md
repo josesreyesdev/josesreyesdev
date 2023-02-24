@@ -1,5 +1,5 @@
 ## Hi! my name is **José S. Reyes**  👋
-#### Today I have decided to focus on native mobile app development and my main short/medium term goal is to develop robust apps for Swift and Kotlin.
+#### Today I have decided to focus on native mobile app development and my main short/medium term goal is to develop robust apps for **Swift** and **Kotlin**.
 ---
 ```kotlin 
 fun main() {
@@ -13,9 +13,9 @@ fun main() {
             ),
         "data" to listOf(
             mapOf(
-            "Email" to "josesreyes.dev@gmail.com",
-            "Linkedin" to  "https://www.linkedin.com/in/josesreyes",
-            "Github" to "https://github.com/josesreyesdev"
+                "Email" to "josesreyes.dev@gmail.com",
+                "Linkedin" to  "https://www.linkedin.com/in/josesreyes",
+                "Github" to "https://github.com/josesreyesdev"
             )
         )
     )
