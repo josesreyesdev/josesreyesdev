@@ -5,7 +5,7 @@
 fun main() {
     val profile = mapOf<String, List<String>(
         "rol" to listOf("Native Mobile Application Developer"),
-        "programming languages" to listOf("Kotlin", "Swift", "Javascript"),
+        "programming languages" to listOf("Kotlin", "Swift"),
         "tools for Kotlin" to listOf(
             "XML", "Material Design", "Material Components", "RecyclerView", "Intents",
             "Lifecycle", "Navigation" "Component", "Fragments", "ViewModel", "LiveData",
@@ -26,7 +26,6 @@ fun main() {
 <p>
     <img src="https://img.icons8.com/color/256/kotlin.png" height="30" width="30">
     <img src="https://img.icons8.com/color/256/swift.png" height="30" width="30">
-    <img src="https://img.icons8.com/color/256/javascript.png" height="30" width="30">
 </p>
 
 ---
