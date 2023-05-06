@@ -3,7 +3,7 @@
 ---
 ```kotlin 
 fun main() {
-    val profile = mapOf<String, List<String>(
+    val profile = mapOf(
         "rol" to listOf("Native Mobile Application Developer"),
         "programming languages" to listOf("Kotlin", "Swift"),
         "tools for Kotlin" to listOf(
