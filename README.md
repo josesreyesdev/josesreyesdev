@@ -3,7 +3,7 @@
 #### Today I have decided to focus on native mobile app development and my main short/medium term goal is to develop robust apps for **Swift** and **Kotlin**.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/josesreyes/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/josesreyes/)
 
 ---
 ```kotlin 
