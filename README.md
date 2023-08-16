@@ -6,28 +6,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/josesreyes/)
 
 ---
-```kotlin 
-fun main() {
-    val profile = mapOf(
-        "rol" to listOf("Native Mobile Application Developer"),
-        "programming languages" to listOf("Kotlin", "Java","Swift"),
-        "tools for Kotlin" to listOf(
-            "XML", "Material Design", "Material Components", "RecyclerView", "Intents",
-            "Lifecycle", "Navigation" "Component", "Fragments", "ViewModel", "LiveData",
-            "Coroutines", "Api Rest", "Room", "Flow"
-         ),
-        "tools for Java" to listOf("MVC", "XML", "MySQL","Spring Boot"),
-        "data" to listOf(
-            mapOf(
-                "Email" to "josesreyes.dev@gmail.com",
-                "Linkedin" to  "https://www.linkedin.com/in/josesreyes",
-                "Github" to "https://github.com/josesreyesdev"
-            )
-        )
-    )
-}
-```
----
 
 ## 💻 Tech Stack:
 ### Programming languages
@@ -56,6 +34,28 @@ fun main() {
 
 
 <!--
+```kotlin 
+fun main() {
+    val profile = mapOf(
+        "rol" to listOf("Native Mobile Application Developer"),
+        "programming languages" to listOf("Kotlin", "Java","Swift"),
+        "tools for Kotlin" to listOf(
+            "XML", "Material Design", "Material Components", "RecyclerView", "Intents",
+            "Lifecycle", "Navigation" "Component", "Fragments", "ViewModel", "LiveData",
+            "Coroutines", "Api Rest", "Room", "Flow"
+         ),
+        "tools for Java" to listOf("MVC", "XML", "MySQL","Spring Boot"),
+        "data" to listOf(
+            mapOf(
+                "Email" to "josesreyes.dev@gmail.com",
+                "Linkedin" to  "https://www.linkedin.com/in/josesreyes",
+                "Github" to "https://github.com/josesreyesdev"
+            )
+        )
+    )
+}
+```
+---
 ### Programming languages
 <p>
     <img src="https://img.icons8.com/color/256/kotlin.png" height="30" width="30">
